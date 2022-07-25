@@ -1,0 +1,14 @@
+{
+  "name": "event-bus",
+  "version": "1.0.0",
+  "main": "dist/eventBus.js",
+  "typings": "dist/eventBus.d.ts",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@types/node": "^18.6.1",
+    "typescript": "^4.7.4"
+  }
+}
